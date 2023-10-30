@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11115984&assignment_repo_type=AssignmentRepo)
 
-# LeetCodePal Version 2.0 Beta
+# LeetFlow Beta
 
 Current Functions List:
 <img width="951" alt="截屏2023-10-30 上午2 11 16" src="https://github.com/RegretfulWinter/a3-beta-version-with-user-feedback-focusforce/assets/20860329/3df125dc-4ef5-42d0-967e-c4c7dfd0375b">
