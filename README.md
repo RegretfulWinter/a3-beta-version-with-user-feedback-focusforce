@@ -2,15 +2,14 @@
 
 # LeetCodePal Version 2.0 Beta
 
-Current Function:
+Current Functions List:
+<img width="951" alt="截屏2023-10-30 上午2 11 16" src="https://github.com/RegretfulWinter/a3-beta-version-with-user-feedback-focusforce/assets/20860329/3df125dc-4ef5-42d0-967e-c4c7dfd0375b">
+<img width="909" alt="截屏2023-10-30 上午2 11 41" src="https://github.com/RegretfulWinter/a3-beta-version-with-user-feedback-focusforce/assets/20860329/c1a6931e-5b07-41a8-954a-f099eaf6e09f">
+<img width="937" alt="截屏2023-10-30 上午2 11 53" src="https://github.com/RegretfulWinter/a3-beta-version-with-user-feedback-focusforce/assets/20860329/d69f53c4-bc64-4788-a962-6ccf37d76ad1">
+<img width="897" alt="截屏2023-10-30 上午2 12 08" src="https://github.com/RegretfulWinter/a3-beta-version-with-user-feedback-focusforce/assets/20860329/77c1058a-2a2c-4e92-9ef4-e780b36abdfa">
+<img width="903" alt="截屏2023-10-30 上午2 12 22" src="https://github.com/RegretfulWinter/a3-beta-version-with-user-feedback-focusforce/assets/20860329/f21bc540-a4d0-41fd-b0c4-1492c52d2ada">
+<img width="896" alt="截屏2023-10-30 上午2 12 31" src="https://github.com/RegretfulWinter/a3-beta-version-with-user-feedback-focusforce/assets/20860329/2d264b09-bab5-4b35-bcff-18b470edfdaf">
 
-1. **Unmodifiable White list** (leetcode, neetcode)
-    
-2. **Flexible Grey list:** (with timer) if opened a website neither on white list nor in the blocked list, a timer will pop up.
-    
-3. **Strict block list**: websites added in block lists will be totally blocked if accessing its URL
-    
-If you want to modify the blocked lists, you will have to answer a coding question or complex algorithms question to get the modify button.
 
 
 # How to load the extension to local
